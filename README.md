@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning Typst
+- 🔭 I’m currently working on my website using Jekyll
 <!--
 **vmartel08/vmartel08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
